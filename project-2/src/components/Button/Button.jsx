@@ -10,4 +10,6 @@ const Button = ({ isOutline,icon,text}) => {
   );
 };
 
+// some changes
+
 export default Button
